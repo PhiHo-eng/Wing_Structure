@@ -1,0 +1,37 @@
+BeginZE /home/philipp/Dokumente/structural_analysis.gid/structural_analysis.vv
+   x -0.109059199690818787 0.293216466903686523
+   y 0.122216925024986267 -0.0758162587881088257
+   z -0.3470497727394104 0.247049763798713684
+   e 0.0990165919065475464
+   v 0.0387998359703332421 0.196720668547649025 0.0341036817508570608
+   r -0.979097793984787579
+   m 0.92027580738067627 0.0820471420884132385 -0.382571101188659668 0 -0.0515162199735641479 0.994663000106811523 0.0893954634666442871 0 0.387863993644714355 -0.0625598728656768799 0.919591128826141357 0 0 0 0 1
+   c 0.0920786410570144653 0.0232003331184387207 0.0500000007450580597
+   pd 0
+   pno 0
+   pfo 0
+   pf 4
+   pv 0
+   NowUse 2
+   DrawingType 3
+   LightVector 90 90 150 0
+   OGLShadow(UseShadows) 0
+   OGLShadow(RenderMode) RenderNice
+   OGLShadow(ShadowBias) -0.002
+   OGLShadow(AmbientShadows) 1
+   OGLShadow(UseFBO) 0
+   OGLShadow(FBOSize) 2048
+   OGLShadow(DimmedLightFactor) 0.02
+   OGLStereo(UseStereo) 0
+   OGLStereo(RelativeEyeDistance) 1
+   OGLStereo(FlipEyes) 0
+   OGLStereo(StereoMode) AnaglyphColors
+   OGLStereo(EyeDistance) 0.075
+   OGLStereo(LeftEyeDistance) 1 0 0 1
+   OGLStereo(RightEyeDistance) 0 1 1 1
+EndZE /home/philipp/Dokumente/structural_analysis.gid/structural_analysis.vv
+
+BeginMirror
+   Mirror 0 Angle 0.0 AngleFake -15.0 SizeFactor 2.0 HeightOffset 0.25 Color #d9e5f24d Backlight Off EdgeStyle No Type Scene DrawMode Mirror
+EndMirror
+
